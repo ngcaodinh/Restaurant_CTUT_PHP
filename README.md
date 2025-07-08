@@ -1,12 +1,6 @@
 # CTUT Restaurant 🍽️
 
-**CTUT Restaurant** là ứng dụng web quản lý nhà hàng được phát triển bởi sinh viên Đại học Công nghệ Cần Thơ. Hệ thống hỗ trợ quản lý món ăn, khách hàng, giỏ hàng và đơn hàng với giao diện thân thiện, tích hợp Google OAuth 2.0 và phân quyền rõ ràng.
-
-## 👥 Nhóm phát triển
-
-- **Nguyễn Cao Đỉnh** - Team Leader, Backend Developer
-- **Mạnh Quỳnh** -  
-- **Minh Thuận** - 
+**CTUT Restaurant** là ứng dụng web thương mại điện tử nhà hàng được phát triển bởi sinh viên Đại học Công nghệ Cần Thơ. Hệ thống hỗ trợ quản lý món ăn, khách hàng, giỏ hàng và đơn hàng với giao diện thân thiện, tích hợp Google OAuth 2.0 và phân quyền rõ ràng.
 
 ## 📌 Mô tả hệ thống
 
