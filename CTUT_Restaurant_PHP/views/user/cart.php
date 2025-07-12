@@ -1,2 +1,0 @@
-<?php
-// Trang giỏ hàng
